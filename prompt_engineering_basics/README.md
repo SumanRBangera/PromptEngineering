@@ -7,6 +7,7 @@ This folder contains interactive Python demos for core prompt engineering patter
 
 Prompt engineering is the practice of crafting effective prompts to get better responses from language models. Here are 7 essential techniques:
 
+
 ---
 
 ## 1. Zero-Shot Prompting (`zero_shot_prompting.py`)
