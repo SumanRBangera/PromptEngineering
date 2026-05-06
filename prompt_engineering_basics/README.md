@@ -2,6 +2,7 @@
 
 This folder contains interactive Python demos for core prompt engineering patterns. Each file is a standalone script that can be run independently to explore different prompting techniques.
 
+
 ## Overview
 
 Prompt engineering is the practice of crafting effective prompts to get better responses from language models. Here are 7 essential techniques:
